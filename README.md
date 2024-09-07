@@ -7,11 +7,11 @@ In this exciting Arduino tutorial, we will be creating a space-themed game where
 
 ## Overview
 
-![images](https://github.com/VinhCao09/Robot_Car_using_ESP32_Cam/blob/main/images/1.jpg)
-![images](https://github.com/VinhCao09/Robot_Car_using_ESP32_Cam/blob/main/images/2.jpg)
+![images](https://github.com/VinhCao09/SpaceTrash/blob/main/images/1.jpg)
 
 ## Schematic
-![images](https://github.com/VinhCao09/Robot_Car_using_ESP32_Cam/blob/main/images/4.jpg)
+
+Updating...
 
 ## Version Recommend
 *Version Arduino IDE:*
